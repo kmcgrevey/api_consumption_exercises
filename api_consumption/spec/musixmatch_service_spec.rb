@@ -1,5 +1,4 @@
 require './spec/spec_helper'
-require './musix_match_service'
 
 describe MusixMatchService do
   before(:each) do
